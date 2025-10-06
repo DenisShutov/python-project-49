@@ -1,4 +1,8 @@
-def main():
+def greet():
     print('Welcome to the Brain Games!')
 
-main()
+def main():
+    greet()
+
+if __name__ == '__main__':
+    main()
