@@ -1,1 +1,4 @@
-print('Welcome to the Brain Games!')
+def main():
+    print('Welcome to the Brain Games!')
+
+main()
