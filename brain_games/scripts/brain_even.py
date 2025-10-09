@@ -1,7 +1,9 @@
 from random import randrange
+
+import prompt
+
 from brain_games.cli import welcome_user
 from brain_games.scripts.brain_games import greet
-import prompt
 
 
 def parity_check():
@@ -18,7 +20,9 @@ def parity_check():
             print('Correct!')
             answer += 1
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct}'.\nLet's try again, {name}!")
+            print(f"'{user_answer}' is wrong answer ;(." 
+                  f"Correct answer was '{correct}'")
+            print(f"Let's try again, {name}!")
             break
     if answer == 3:
         print(f'Congratulations, {name}')
@@ -27,6 +31,7 @@ def parity_check():
 def main():
     greet()
     parity_check()
+
 
 if __name__ == '__main__':
     main()

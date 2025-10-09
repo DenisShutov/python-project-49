@@ -12,3 +12,9 @@ package-install:
 
 lint:
 	uv run ruff check brain_games
+
+brain-even:
+	uv run brain-even
+
+reinstall:
+	uv tool install --force dist/*.whl
