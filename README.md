@@ -11,3 +11,8 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=DenisShutov_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=DenisShutov_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DenisShutov_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=DenisShutov_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DenisShutov_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=DenisShutov_python-project-49)
+
+## Brain-even
+### Setup, launch, example
+
+[Demonstrarion](https://asciinema.org/a/ZmgS3ibIeaVHIjWA3ti3dQ5im)
