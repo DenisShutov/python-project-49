@@ -13,6 +13,6 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DenisShutov_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=DenisShutov_python-project-49)
 
 ## Brain-even
-### Setup, launch, example
+### Setup, launch, example:
 
-[Demonstrarion](https://asciinema.org/a/ZmgS3ibIeaVHIjWA3ti3dQ5im)
+[Demonstrarion video](https://asciinema.org/a/ZmgS3ibIeaVHIjWA3ti3dQ5im)
