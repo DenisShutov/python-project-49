@@ -15,4 +15,4 @@
 ## Brain-even
 ### Setup, launch, example:
 
-[Demonstrarion video](https://asciinema.org/a/ZmgS3ibIeaVHIjWA3ti3dQ5im)
+[Demonstration video](https://asciinema.org/a/ZmgS3ibIeaVHIjWA3ti3dQ5im)
