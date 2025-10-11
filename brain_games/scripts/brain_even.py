@@ -21,11 +21,11 @@ def parity_check():
             answer += 1
         else:
             print(f"'{user_answer}' is wrong answer ;(." 
-                  f"Correct answer was '{correct}'")
+                  f"Correct answer was '{correct}.'")
             print(f"Let's try again, {name}!")
             break
     if answer == 3:
-        print(f'Congratulations, {name}')
+        print(f'Congratulations, {name}!')
     
 
 def main():
