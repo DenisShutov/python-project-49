@@ -18,3 +18,9 @@ brain-even:
 
 reinstall:
 	uv tool install --force dist/*.whl
+
+lint fix:
+	uv run ruff check --fix brain_games
+
+brain-calc:
+	uv run brain-calc
