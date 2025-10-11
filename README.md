@@ -16,3 +16,6 @@
 ### Setup, launch, example:
 
 [Demonstration video](https://asciinema.org/a/ZmgS3ibIeaVHIjWA3ti3dQ5im)
+
+## Brain-calc
+[Demonstration video](https://asciinema.org/a/2uXMMnIxw9dUpmcU3jaVJ39EE)
