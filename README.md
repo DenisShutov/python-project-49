@@ -19,3 +19,6 @@
 
 ## Brain-calc
 [Demonstration video](https://asciinema.org/a/2uXMMnIxw9dUpmcU3jaVJ39EE)
+
+## Brain-gcd
+[Demonstration video](https://asciinema.org/a/XMb3C61gP61FOxYebrZXz4RN8)
