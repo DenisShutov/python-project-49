@@ -22,3 +22,6 @@
 
 ## Brain-gcd
 [Demonstration video](https://asciinema.org/a/XMb3C61gP61FOxYebrZXz4RN8)
+
+## Brain-progression
+[Demonstration video](https://asciinema.org/a/AUOCyHkvwBX2SOFFN1PCllRoB)
