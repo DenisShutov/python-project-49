@@ -4,26 +4,22 @@ from brain_games.cli import welcome_user
 from brain_games.scripts.brain_games import greet
 
 
-def get_conditions():
-    raise NotImplementedError("Define get_conditions() in game module")
-
-
-def engine_game():
+def engine_game(rules, get_question_answer):
+    
     greet()
     name = welcome_user()
-    description = ''
-    print(description)
+    print(rules)
     
     answer = 0
     rounds = 3
 
     while answer < rounds:
-        question, correct_answer = get_conditions()
+        question, correct_answer = get_question_answer()
         print(f'Question: {question}')
 
         user_answer = prompt.string('Your answer: ')
-
-        if user_answer == correct_answer:
+    
+        if user_answer == str(correct_answer):
             print('Correct!')
             answer += 1
         else:
