@@ -25,3 +25,6 @@
 
 ## Brain-progression
 [Demonstration video](https://asciinema.org/a/AUOCyHkvwBX2SOFFN1PCllRoB)
+
+## Brain-prime
+[Demonstration video](https://asciinema.org/a/Mllvh1Znp9wRzN0FC6LFPSBsP)
