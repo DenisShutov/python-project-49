@@ -14,7 +14,7 @@ def get_question_answer():
         a = start + i * step
         res.append(str(a))
     
-    index = randrange(0, len(res))
+    index = randrange(0, len(res)) #NOSONAR
     correct_answer = res[index]
     res[index] = '..'
     question = ' '.join(res)

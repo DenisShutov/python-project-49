@@ -13,7 +13,7 @@ def brain_calc():
     while answer < 3:
         n1 = randrange(1, 51) #NOSONAR
         n2 = randrange(1, 51) #NOSONAR
-        operator = choice(['+', '-', '*'])
+        operator = choice(['+', '-', '*']) #NOSONAR
 
         if operator == "+":
             res = n1 + n2
