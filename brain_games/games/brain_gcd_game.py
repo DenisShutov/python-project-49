@@ -6,8 +6,8 @@ rules = 'Find the greatest common divisor of given numbers.'
 
 
 def get_question_answer():
-    n1 = randrange(1, 51)
-    n2 = randrange(1, 51)
+    n1 = randrange(1, 51) #NOSONAR
+    n2 = randrange(1, 51) #NOSONAR
     question = f'{n1} {n2}'
 
     a = min(n1, n2)

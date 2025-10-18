@@ -11,8 +11,8 @@ def brain_calc():
 
     answer = 0
     while answer < 3:
-        n1 = randrange(1, 51)
-        n2 = randrange(1, 51)
+        n1 = randrange(1, 51) #NOSONAR
+        n2 = randrange(1, 51) #NOSONAR
         operator = choice(['+', '-', '*'])
 
         if operator == "+":
