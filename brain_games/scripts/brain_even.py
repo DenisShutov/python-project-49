@@ -12,7 +12,7 @@ def parity_check():
 
     answer = 0
     while answer < 3:
-        n = randrange(1, 100) #NOSONAR
+        n = randrange(1, 100)  # NOSONAR
         print(f'Question: {n}')
         user_answer = prompt.string('Your answer: ')
         correct = 'yes' if n % 2 == 0 else 'no'

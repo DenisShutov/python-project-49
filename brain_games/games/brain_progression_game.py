@@ -6,15 +6,15 @@ rules = 'What number is missing in the progression?'
 
 
 def get_question_answer():
-    start = randrange(1, 11) #NOSONAR
-    step = randrange(1, 6) #NOSONAR
+    start = randrange(1, 11)  # NOSONAR
+    step = randrange(1, 6)  # NOSONAR
     n = 10
     res = []
     for i in range(n):
         a = start + i * step
         res.append(str(a))
     
-    index = randrange(0, len(res)) #NOSONAR
+    index = randrange(0, len(res))  # NOSONAR
     correct_answer = res[index]
     res[index] = '..'
     question = ' '.join(res)

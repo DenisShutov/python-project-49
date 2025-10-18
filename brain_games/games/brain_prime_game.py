@@ -6,7 +6,7 @@ rules = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def get_question_answer():
-    n = randrange(1, 101) #NOSONAR
+    n = randrange(1, 101)  # NOSONAR
     question = n
     if n < 2:
         is_prime = False
